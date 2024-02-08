@@ -28,6 +28,10 @@ Stažení je jednoduché. Stačí stáhnout tento celej mód a nahrát ho na vá
 
 Máte-li otázky, problémy nebo návrhy, neváhejte nás kontaktovat na našem webu [recuvapumdev.eu](https://recuvapumdev.eu/).
 
+## Poděkování
+
+`Skyficek`
+
 ## Licence
 
 Tento projekt je licencován pod [MIT licencí](LICENSE).
